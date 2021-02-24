@@ -4,7 +4,7 @@
 > 2 day team project
  
 ## **|| Introduction ||**
-Rehabilitation is a Star Wars inspired 3D space shooter, designed with 6 members during Global Game Jam at Volta labs. The current theme was "Repair", so we designed a ship that shields would repair over time if it was damaged by enemies. 
+Rehabilitation is a Star Wars inspired 3D space shooter, designed with 6 members during Global Game Jam 2020 at Volta labs. The current theme was "Repair", so we designed a ship that shields would repair over time if it was damaged by enemies. 
 
 > _Game contains 1 level, a player ship & enemies to shoot._ 
 
