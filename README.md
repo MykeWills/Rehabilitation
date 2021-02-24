@@ -31,6 +31,7 @@ Rehabilitation is a Star Wars inspired 3D space shooter, designed with 6 members
 * UI programming & graphic design
 * Explosions, thruster & post processing effects
 * Enemy projectile programming
+* Level music & sounds
 
 > **???? ????**
 ========================
